@@ -1,4 +1,4 @@
 # TodoApp
 TP Git avancé
 
-Ce projet gère une tache
+Ce projet gère plusieurs tâches.
